@@ -1,4 +1,5 @@
 ```bash
+# Updated 06/06/2022 Added tag 1.0.1 (updated connection string)
 # Pulling image from hub.docker.com
 docker pull ipcagr1d/saferoute-jwt-auth:1.0
 
